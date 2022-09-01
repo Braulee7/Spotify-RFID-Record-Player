@@ -19,6 +19,7 @@ to put "0x" infront of it to get the proper functions working.
 
 
 Hardware Used In This Project:
+
   -ESP8266 by HiLetGo
     - https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B010O1G1ES/ref=sr_1_2_sspa?crid=3FYQRIJF0933M&keywords=esp8266&qid=1662020809&sprefix=esp826%2Caps%2C143&sr=8-2-spons&th=1
   -MFRC522 RFID Sensor 
@@ -39,6 +40,7 @@ Hardware Used In This Project:
   
   
 Library Versions:
+
   -ESP8266 board V.2.6.0
     -https://arduino.esp8266.com/stable/package_esp8266com_index.json
   -ArduinoJson by Benoit Blanchon V.6.19.3
