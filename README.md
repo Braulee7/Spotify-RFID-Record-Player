@@ -22,15 +22,19 @@ Hardware Used In This Project:
 
   -ESP8266 by HiLetGo
     - https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B010O1G1ES/ref=sr_1_2_sspa?crid=3FYQRIJF0933M&keywords=esp8266&qid=1662020809&sprefix=esp826%2Caps%2C143&sr=8-2-spons&th=1
+  
   -MFRC522 RFID Sensor 
     - https://www.amazon.com/dp/B01CSTW0IA?psc=1&ref=ppx_yo2ov_dt_b_product_details
+  
   -IR remote and sensor by Elegoo
     - (I used the remote and sensor from this kit but any sensor and remote should work as long as 
        as you're able to read the codes from it)
     - https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_2_sspa?crid=3M3SS3MHD8JMN&keywords=arduino&qid=1662020839&sprefix=arduino%2Caps%2C166&sr=8-2-spons&psc=1
+  
   -NFC Cards
     - Any programmable NFC cards should work, look below for a tutorial on how to write to them
     - https://www.amazon.com/programmable-Compatible-Amiibo-Android-Enabled/dp/B0932T1QGC/ref=sr_1_3_sspa?crid=1UGB6QB6XIXM3&keywords=nfc%2Bcards&qid=1662020913&sprefix=nfc%2Bcards%2Caps%2C125&sr=8-3-spons&th=1
+  
   -5mm RGB LEDS (4 leg)
     - This code uses 4 legs but any led rgb or not should work just fix the pin numbers 
       and amount of times you go through depending on which leds you use, this one just 
@@ -43,8 +47,11 @@ Library Versions:
 
   -ESP8266 board V.2.6.0
     -https://arduino.esp8266.com/stable/package_esp8266com_index.json
+  
   -ArduinoJson by Benoit Blanchon V.6.19.3
+  
   -IRremote by Armin Joachimsmeyer V.3.3.0
+  
   -MFRC522 by GithubCommunity V.1.4.10
   
   
